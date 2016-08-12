@@ -28,7 +28,7 @@ public class WhenTheUserEntersAnInitialGrid {
     PlayerSteps player;
 
 
-    final static String[][] EMPTY_GRID
+    public final static String[][] EMPTY_GRID
             = new String[][]{{".", ".", "."},
             {".", ".", "."},
             {".", ".", "."}};
